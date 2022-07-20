@@ -1,0 +1,37 @@
+body {
+  margin-bottom: 100px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: #352525;
+  margin-inline: 15%;
+  margin-top: 60px;
+  font-weight: 300px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Francois One;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+hr {
+  height: 7px;
+  background-color: #018BA2;
+  border: none;
+  margin-inline: 3%;
+}
+
+p {
+  font-family: Lato;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
