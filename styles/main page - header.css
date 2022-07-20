@@ -1,0 +1,16 @@
+.sticky-header {
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+.header-logo {
+  height: 100px;
+  min-width: 100px;
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
