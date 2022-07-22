@@ -1,0 +1,50 @@
+body {
+  margin-bottom: 100px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: #352525;
+  margin-inline: 15%;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Francois One;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+hr {
+  height: 7px;
+  background-color: #018BA2;
+  border: none;
+  margin-inline: 3%;
+}
+
+p {
+  font-family: Cabin;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.header {
+  display: block;
+}
+
+.header-logo-subpages {
+  position: absolute;
+  top: 30px;
+  right: 200px;
+  height: 50px;
+}
