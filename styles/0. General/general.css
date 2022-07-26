@@ -45,6 +45,6 @@ p {
 .header-logo-subpages {
   position: absolute;
   top: 30px;
-  right: 200px;
+  left: 100px;
   height: 50px;
 }
