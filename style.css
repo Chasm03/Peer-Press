@@ -40,7 +40,7 @@ hr {
 }
 
 p {
-    font-family: Cabin;
+    font-family: Cabin, Arial;
     font-size: 20px;
     margin-bottom: 20px;
 }
@@ -92,7 +92,7 @@ p {
 }
 
 .snd-hotinf {
-    font-family: Cabin;
+    font-family: Cabin, Arial;
     font-style: normal;
     font-weight: 400;
     font-size: 28px;
