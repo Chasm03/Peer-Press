@@ -53,11 +53,12 @@ p {
     top: 0;
     background-color: white;
     z-index: 1000;
+    height: 120px;
 }
 
 .header-logo {
     background-color: white;
-    height: 90px;
+    height: 70px;
     min-width: 100px;
     display: block;
     margin-left: auto;
