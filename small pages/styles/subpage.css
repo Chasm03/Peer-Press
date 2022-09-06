@@ -1,0 +1,113 @@
+/* tiêu đề */
+.title-box {
+  display: block;
+  background-color: #BAE5A0;
+  align-items: center; 
+  margin-top: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+/*transition*/
+
+.left-transition {
+  display: grid; 
+  grid-template-columns: 4fr 6fr;
+}
+
+.right-transition {
+  display: grid;
+  grid-template-columns: 6fr 4fr; 
+}
+
+.middle-transition {
+  display: flex;
+  justify-content: center;
+}
+
+.transition-picture {
+  width: 100%;
+}
+
+.middle-transition-picture {
+  width: 60%;
+  text-align: center;
+}
+
+    /* All number IDs are put under the class of number class */
+    .number {
+      font-family: Francois One;
+      font-size: 90px;
+    }
+
+    #num-odd {
+      margin-left: 80px;
+      margin-top: 0px;
+    }
+
+    #num-even {
+      margin-top: 0px;
+      margin-right: 20%;
+      text-align: right;
+    }
+
+    /* All rectangle IDs are put under the class of rectangle class */
+    .rectangle {
+      width: 114px;
+      height: 132px;
+      background-color: rgba(1, 126, 148, 0.65);
+      border: none;
+    }
+
+    #rectangle-odd {
+      position: relative;
+      left: 126px;
+    }
+
+    #rectangle-even {
+      position: relative;
+      left: 70%;
+    }
+
+/*content*/
+
+.profile-picture {
+  width: 100%;
+  margin-bottom: 100px;
+}
+
+.green-content-box {
+  background-color: #bae5a0;
+  margin-bottom: 100px;
+}
+
+.blue-content-box {
+  background-color: rgba(1, 139, 162, 0.61);
+  margin-bottom: 100px;
+}
+
+/* body paragraphs styles */
+.only-body-paragraph, .body-paragraph-top, .body-paragraph-middle, .body-paragraph-bottom {
+  margin-inline: 15%;
+  font-size: 30px;
+}
+
+.only-body-paragraph {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.body-paragraph-top {
+  padding-top: 120px;
+  margin-bottom: 40px;
+}
+
+.body-paragraph-middle {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.body-paragraph-bottom {
+  margin-top: 40px;
+  padding-bottom: 120px;
+}
